@@ -1,0 +1,40 @@
+export default {
+  transparent: 'rgba(0,0,0,0)',
+
+  white: '#ffffff',
+  text: '#212529',
+  primary: '#007bff',
+  success: '#28a745',
+  error: '#dc3545',
+
+  appBgColorF0E8DD: '#F0E8DD',
+  appPinkBgE5E5E5: '#E5E5E5',
+  appBlackColor232734: '#fff',
+  black: '#000000',
+  fbButtonBg: '#D0D1EC',
+
+  activeIconColor: "#F21833",
+  inACtiveIconColor: "#383E41",
+
+  continueWithFbText: '#313257',
+  btnTouchableBg232734: '#232734',
+  btnSelectionPink: '#EA8D81',
+  enableBtnBgColor: '#232734',
+  colorBlue0000ff: '#0000ff',
+  darkPinkECB4A5: '#ECB4A5',
+  colorOffPinkCAC0B3: '#CAC0B3',
+  waitlistBgF6F1EB: '#F6F1EB',
+  profileDeviderLine: '#EAE0D3',
+  settingsLinkBg: '#ECE2D6',
+  tabActiveTintColor: '#e91e63',
+  bioQPlaceholderText: '#cccccc',
+  colorF194FF: '#F194FF',
+  color5CA1FF: '#5CA1FF',
+  color83B5FA: '#83B5FA',
+  colorFF2600: '#FF2600',
+  colorECE4D8: '#ECE4D8',
+  colorCECBC7: '#CECBC7',
+  dislikeIconBg: '#484D5E',
+  colorB5AA9C: '#B5AA9C',
+  colorA6A6A6: '#A6A6A6'
+}

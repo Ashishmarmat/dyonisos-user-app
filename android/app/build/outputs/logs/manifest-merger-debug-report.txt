@@ -1,0 +1,398 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/566e2b5b828f4aa285f4949f9a2dbb9d/flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/52116faea2b828ae5739a8c9614c1c93/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/00246d180650dd75f199ec2a35298f1a/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_async-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_blur] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_geolocation] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_viewpager] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-localization] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-sqlite-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-uuid-generator] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-range-slider] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/7e9499c3bc900112ea570d3d55df5580/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/mac/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9c4b4583af753f8e1b807084037d7124/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/73aaaa039eef78637adfe84b9a31488f/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/903879e0c94f44d7a4aed33e7504455e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3af09c878c65c28a7a06fa40796000dd/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8c56ce52de71e9ca2d17419e48a56fe6/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/0c5ad49c2fb2d8f14002cc34729017ce/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d8a8bd899edddf5ecbb833c2f8a4283/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e28e2d3342edee1cf5d34db5a25d3009/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6104cb96d682d5a13cd48ebc26b54717/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2474a016ddb88adf9a3a6c6a710609d5/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7024cea641ae7a414ee912ec911e2d97/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/986437eb98163df9167c2c0a93cca241/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/87a9238b83f8bbb97649d72ed3d400ec/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/97cc6b8d627c46e5b5d32541c85e31b3/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/86593c66ea02a29ebcecb33077083264/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/bc741877f08b64f695ff598b7fe63734/jetified-blurview-1.6.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/02265af1c9da9cea9886799a7a88680f/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b0cab1b224a8df5d403e712e80347c88/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/ad22404c14cdd82a18b5e4ba632d6442/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e289e635fef2f04da5467be113dfe4b7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5f8b63a44f42ef8b67765bcc778e570f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/91fff739e7615e74c4a9c652118e4a92/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/924c35beda282356d1b5c07ad4a97c74/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/66e07d0b2fc1d895058c54e834978b92/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d6cbc7f133a76f1562be6842b45a40c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fe426716a08ee3a0b8844fdc658bd87c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/16f48a5aa9c7f6f43e52f79bd9718fca/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/1a66d93537b6aaa22e6d15d51b321750/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/4101c8f3b12e4c041fddf132bab93f5a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6de75b90bc251819d4d8046242979c37/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7098e81408a2ced3744bf7a7173650df/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6c8f4de56e992feb39592fb19c1ecb03/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/00c8134e822b71af3771defa219e681e/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/13b190595faddec19bb6310af12b3985/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:5:6-80
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:5:23-77
+application
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-26:19
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/7e9499c3bc900112ea570d3d55df5580/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/7e9499c3bc900112ea570d3d55df5580/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/97cc6b8d627c46e5b5d32541c85e31b3/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/97cc6b8d627c46e5b5d32541c85e31b3/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/86593c66ea02a29ebcecb33077083264/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/86593c66ea02a29ebcecb33077083264/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/bc741877f08b64f695ff598b7fe63734/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/bc741877f08b64f695ff598b7fe63734/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/00c8134e822b71af3771defa219e681e/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/00c8134e822b71af3771defa219e681e/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:12:75-114
+	android:roundIcon
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:12:54-74
+	android:icon
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:12:18-53
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.dyonisos.MainActivity
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/566e2b5b828f4aa285f4949f9a2dbb9d/flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/566e2b5b828f4aa285f4949f9a2dbb9d/flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/52116faea2b828ae5739a8c9614c1c93/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/52116faea2b828ae5739a8c9614c1c93/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/00246d180650dd75f199ec2a35298f1a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/00246d180650dd75f199ec2a35298f1a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_async-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_blur] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_blur] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localization] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-localization/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sqlite-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-uuid-generator] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-uuid-generator] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/7e9499c3bc900112ea570d3d55df5580/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/7e9499c3bc900112ea570d3d55df5580/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9a198dd6a4802bf213971a1dc6f09c4a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/mac/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mac/.gradle/caches/transforms-2/files-2.1/3793e13a3a541cd3b86ebe7d44184f9d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c7685881be1ee6164254208436465f03/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9c4b4583af753f8e1b807084037d7124/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9c4b4583af753f8e1b807084037d7124/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/73aaaa039eef78637adfe84b9a31488f/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/73aaaa039eef78637adfe84b9a31488f/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/903879e0c94f44d7a4aed33e7504455e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/903879e0c94f44d7a4aed33e7504455e/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3af09c878c65c28a7a06fa40796000dd/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3af09c878c65c28a7a06fa40796000dd/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8c56ce52de71e9ca2d17419e48a56fe6/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8c56ce52de71e9ca2d17419e48a56fe6/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/0c5ad49c2fb2d8f14002cc34729017ce/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/0c5ad49c2fb2d8f14002cc34729017ce/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d8a8bd899edddf5ecbb833c2f8a4283/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d8a8bd899edddf5ecbb833c2f8a4283/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e28e2d3342edee1cf5d34db5a25d3009/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e28e2d3342edee1cf5d34db5a25d3009/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6104cb96d682d5a13cd48ebc26b54717/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6104cb96d682d5a13cd48ebc26b54717/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2474a016ddb88adf9a3a6c6a710609d5/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2474a016ddb88adf9a3a6c6a710609d5/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7024cea641ae7a414ee912ec911e2d97/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7024cea641ae7a414ee912ec911e2d97/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/986437eb98163df9167c2c0a93cca241/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/986437eb98163df9167c2c0a93cca241/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/87a9238b83f8bbb97649d72ed3d400ec/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/87a9238b83f8bbb97649d72ed3d400ec/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/97cc6b8d627c46e5b5d32541c85e31b3/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/97cc6b8d627c46e5b5d32541c85e31b3/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/86593c66ea02a29ebcecb33077083264/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/86593c66ea02a29ebcecb33077083264/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf2af2f0df4c0847753a363dfe221928/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d5a63cd9e3cfc4b0d2420a2571605383/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8bfd539831997aa9f2ee5c81e8c6a0e5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/399184328a0cd917762d92e8f0272a6e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/bc741877f08b64f695ff598b7fe63734/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/mac/.gradle/caches/transforms-2/files-2.1/bc741877f08b64f695ff598b7fe63734/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/02265af1c9da9cea9886799a7a88680f/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/02265af1c9da9cea9886799a7a88680f/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b0cab1b224a8df5d403e712e80347c88/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b0cab1b224a8df5d403e712e80347c88/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/ad22404c14cdd82a18b5e4ba632d6442/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/ad22404c14cdd82a18b5e4ba632d6442/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e289e635fef2f04da5467be113dfe4b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/e289e635fef2f04da5467be113dfe4b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5f8b63a44f42ef8b67765bcc778e570f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/5f8b63a44f42ef8b67765bcc778e570f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/91fff739e7615e74c4a9c652118e4a92/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/91fff739e7615e74c4a9c652118e4a92/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/924c35beda282356d1b5c07ad4a97c74/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/924c35beda282356d1b5c07ad4a97c74/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/66e07d0b2fc1d895058c54e834978b92/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/66e07d0b2fc1d895058c54e834978b92/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/766e1c1573fb1396d2ffca00e82b8e66/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d6cbc7f133a76f1562be6842b45a40c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/9d6cbc7f133a76f1562be6842b45a40c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fe426716a08ee3a0b8844fdc658bd87c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fe426716a08ee3a0b8844fdc658bd87c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/a56d48cddf8b505fa69a598b8ebcf5d4/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/2c56f2dafa16bc167084c5e03038897b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/fc46670e0fcc2c1fff313f8d8f3e5767/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/16f48a5aa9c7f6f43e52f79bd9718fca/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/16f48a5aa9c7f6f43e52f79bd9718fca/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/1a66d93537b6aaa22e6d15d51b321750/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/1a66d93537b6aaa22e6d15d51b321750/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/4101c8f3b12e4c041fddf132bab93f5a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/4101c8f3b12e4c041fddf132bab93f5a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6de75b90bc251819d4d8046242979c37/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6de75b90bc251819d4d8046242979c37/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a4b7b7324719c0ab42025bc7f47c4f0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/388f2348420028b2e7aee0b053d63de8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7098e81408a2ced3744bf7a7173650df/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/7098e81408a2ced3744bf7a7173650df/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6c8f4de56e992feb39592fb19c1ecb03/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6c8f4de56e992feb39592fb19c1ecb03/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/00c8134e822b71af3771defa219e681e/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/00c8134e822b71af3771defa219e681e/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/13b190595faddec19bb6310af12b3985/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/13b190595faddec19bb6310af12b3985/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/3d39440bcc594043cce83b10ae7bde7b/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:5:4-76
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:5:21-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:7:1-61
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:7:18-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:8:1-77
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:8:18-74
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:9:1-62
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:9:18-59
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:10:1-68
+	android:name
+		ADDED from /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/android/app/src/debug/AndroidManifest.xml:10:18-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/d763bc0f32dc7dae2b2c0bbd82e245df/flipper-0.37.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-25:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:replace
+		ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from [:react-native-share] /Users/mac/react-native/Dyonisos folder/Dyonisos---User-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-55

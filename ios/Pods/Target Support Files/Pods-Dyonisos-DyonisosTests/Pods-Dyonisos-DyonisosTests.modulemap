@@ -1,0 +1,6 @@
+module Pods_Dyonisos_DyonisosTests {
+  umbrella header "Pods-Dyonisos-DyonisosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
